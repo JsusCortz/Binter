@@ -67,7 +67,7 @@ if(!empty($_GET['import_status'])) {
 							<br><br><br>
 						<!--<input type="submit" class="btn btn-primary col-6 mt-1" name="import_data" value="IMPORTAR">-->
 
-						 <input type="submit" class="btn btn-primary col-6 mt-1" name="generar_reporte" value="DESCARGAR">
+						 <input type="submit" class="btn btn-primary col-6 mt-1" name="generar_reporte" value="Generar Reporte">
 						</div>	
 				</form>
 						<div class="col-md-12">
